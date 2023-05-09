@@ -1,3 +1,4 @@
+![logo](https://github.com/adichatterjee/adichatterjee/blob/main/Github_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate data enthusiast from from India looking to answer business questions with actionable data insights.</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
